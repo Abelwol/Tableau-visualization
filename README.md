@@ -4,7 +4,7 @@
 Rows: 286392 
 Columns: 36 
 
- ##   Column            Non-Null Count   Dtype  
+ Id   Column            Non-Null Count   Dtype  
 ---  ------            --------------   -----  
  0   order_id          286392 non-null  object 
  1   order_date        286392 non-null  object 
