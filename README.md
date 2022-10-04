@@ -58,7 +58,9 @@ This Butterfly chart shows total revenues generated from sales of all product ca
 ## Image5: Sales percentage by State
 This pie chart indicates percentage share of each region in the total sales of the super store during the period.
 ![Sales perecentage by Region](https://user-images.githubusercontent.com/114592689/193728993-478a1e26-0dc2-4c81-b288-4259045b0f66.png)
-
+## Image6: Customer Dash board
+This dashboard shows all the five vizualizations together. It is named as customer dash board just to reflect that the original data has customer details along with their order details and order status. In addition the total amount of sales by the super store during the period is also indcluded in this dashboard.
+![Dashboard 1](https://user-images.githubusercontent.com/114592689/193729839-549aaa62-0e25-4787-9274-550b7c0ee2e9.png)
 
 
 
