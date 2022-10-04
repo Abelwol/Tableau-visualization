@@ -49,6 +49,13 @@ This map chart shows total sales by each state including Alaska. The total value
 ## Image2: Sales by month
 This line chart presents sales by month during the period the data covered. the total values are adjusted to one decimal and figures are in millions.
 ![Sales by Month](https://user-images.githubusercontent.com/114592689/193725268-969a8622-4f80-48c0-b6f9-c2963d4d8310.png)
+## Image3: Sales by Age
+This bar chart shows sales values by different age groups of customers for the period. Sales amounts are in millions.
+![Sales by Age](https://user-images.githubusercontent.com/114592689/193727628-a2e7b9cb-814b-4941-80b6-4a2be54a6aaa.png)
+
+
+
+
 
 
 
