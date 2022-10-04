@@ -1,9 +1,9 @@
 ## Tableau-visualization
 ## Author :Abel Fereja, 03-Oct-2022
-## Dataset info: 
+## Dataset info:
+
 Rows: 286392 
 Columns: 36 
-
  Id   Column            Non-Null Count   Dtype  
 ---  ------            --------------   -----  
  0   order_id          286392 non-null  object 
@@ -44,6 +44,7 @@ Columns: 36
  35  Discount_Percent  286392 non-null  float64
 dtypes: float64(9), int64(3), object(24)
 memory usage: 78.7+ MB
+
 ## Image1: Sales by state
 This map chart shows total sales by each state including Alaska. The total values are formatted to one decimal and in millions.
 ![Sales by State](https://user-images.githubusercontent.com/114592689/193603214-5fd23d69-e6f4-4fdd-b41b-52918d545c03.png)
