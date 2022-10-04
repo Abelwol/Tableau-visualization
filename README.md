@@ -52,7 +52,8 @@ This line chart presents sales by month during the period the data covered. the 
 ## Image3: Sales by Age
 This bar chart shows sales values by different age groups of customers for the period. Sales amounts are in millions.
 ![Sales by Age](https://user-images.githubusercontent.com/114592689/193727628-a2e7b9cb-814b-4941-80b6-4a2be54a6aaa.png)
-
+## Image4: Sales by Gender
+This Butterfly chart shows total revenues generated from sales of all product categories based on Gender group of customers. Sales values are in millions and adjsuted to one decimal figures.
 
 
 
