@@ -55,6 +55,10 @@ This bar chart shows sales values by different age groups of customers for the p
 ## Image4: Sales by Gender
 This Butterfly chart shows total revenues generated from sales of all product categories based on Gender group of customers. Sales values are in millions and adjsuted to one decimal figures.
 ![Sales  by Gender](https://user-images.githubusercontent.com/114592689/193728563-a63d8a03-548f-42f1-97c2-814955035e19.png)
+## Image5: Sales percentage by State
+This pie chart indicates percentage share of each region in the total sales of the super store during the period.
+![Sales perecentage by Region](https://user-images.githubusercontent.com/114592689/193728993-478a1e26-0dc2-4c81-b288-4259045b0f66.png)
+
 
 
 
