@@ -3,6 +3,7 @@
 ## Dataset info: 
 Rows: 286392 
 Columns: 36 
+
  ##   Column            Non-Null Count   Dtype  
 ---  ------            --------------   -----  
  0   order_id          286392 non-null  object 
