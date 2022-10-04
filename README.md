@@ -1,8 +1,8 @@
 ## Tableou-visualization
 ## Author :Abel Fereja, 03-Oct-2022
 ## Dataset info: 
-Rows: 286392
-columns: 36 
+ Rows: 286392
+ columns: 36 
  #   Column            Non-Null Count   Dtype 
  0   order_id          286392 non-null  object 
  1   order_date        286392 non-null  object 
