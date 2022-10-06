@@ -31,5 +31,6 @@ dtypes: float64(3), int64(3), object(15)
 memory usage: 1.6+ MB
 </pre>
 ## Image1: Sales % by Category
+This pie chart(donut) is depicting the Sales percentage share of the three categories namely; Technology, Furniture and Office supplies. 
 ![Sales % By Category-2](https://user-images.githubusercontent.com/114592689/194359636-65073986-2c68-4ff2-9d0e-e42531413846.png)
 
