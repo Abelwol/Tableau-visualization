@@ -54,4 +54,4 @@ This pie chart shows quantities sold by region.
 ## Image8: Sales Dash board
 This dashboard shows all the Seven vizualizations together. Originally it is interactive and has filters added to get further insights about the performance of the business using defferent indicators. The interactive dashbaord can be found on below link.
 https://public.tableau.com/app/profile/abel5716/viz/NewSalesDashboard_16650336655550/Dashboard1?publish=yes
-![Dashboard 1-3](https://user-images.githubusercontent.com/114592689/194367484-e4eb8a25-e7db-412a-8d89-5f7470b08fe7.png)
+![Dashboard 1-4](https://user-images.githubusercontent.com/114592689/194368133-a8cc2bbc-31fa-4295-93a8-bb3eab0299f3.png)
