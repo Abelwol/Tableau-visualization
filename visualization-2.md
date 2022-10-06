@@ -32,5 +32,26 @@ memory usage: 1.6+ MB
 </pre>
 ## Image1: Sales % by Category
 This pie chart(donut) is depicting the Sales percentage share of the three categories namely; Technology, Furniture and Office supplies. 
-![Sales % By Category-2](https://user-images.githubusercontent.com/114592689/194359636-65073986-2c68-4ff2-9d0e-e42531413846.png)
-
+![Sales % By Category-3](https://user-images.githubusercontent.com/114592689/194366872-6a7da4a3-d893-4e22-8dcd-ebc6c219ee3a.png)
+## Image2: Sales % by Region
+This pie chart shows total sales by each region. The total values are formatted to one decimal and are in Thousands.
+![Sales % by region-2](https://user-images.githubusercontent.com/114592689/194366952-a427a0c0-690c-46f6-8be4-caf0c0586be1.png)
+## Image3: Sales by Segment
+This pie chart shows total sales by product segment. The total values are formatted to one decimal and are in Thousands.
+![Sales by Segment-2](https://user-images.githubusercontent.com/114592689/194367010-9c239119-d696-412a-84fb-6c01db83413a.png)
+## Image4: Profit by Category
+This bar chart shows profits by product category. The total values are formatted to one decimal and are in Thousands.
+![Profit By Category](https://user-images.githubusercontent.com/114592689/194367092-def937ab-ef69-414b-bcb6-6e67ab2d07fa.png)
+## Image5: Quantity by Category
+This packed bubbles chart shows quantity sold by product categories. 
+![Quantity by Category](https://user-images.githubusercontent.com/114592689/194367258-d2acc30c-d20a-4506-8bd1-09819ffb1f87.png)
+## Image6: Profit by Region
+This pie chart shows profits by region. The total values are formatted to one decimal and in millions.
+![Profit by Region](https://user-images.githubusercontent.com/114592689/194367339-430261a0-810b-4bee-9748-7e203ebadd32.png)
+## Image7: Quantity by Region
+This pie chart shows quantities sold by region. 
+![Quantity by Region](https://user-images.githubusercontent.com/114592689/194367398-7362716c-d07b-4df5-99de-49df93071ad7.png)
+## Image8: Sales Dash board
+This dashboard shows all the Seven vizualizations together. Originally it is interactive and has filters added to get further insights about the performance of the business using defferent indicators. The interactive dashbaord can be found on below link.
+https://public.tableau.com/app/profile/abel5716/viz/NewSalesDashboard_16650336655550/Dashboard1?publish=yes
+![Dashboard 1-3](https://user-images.githubusercontent.com/114592689/194367484-e4eb8a25-e7db-412a-8d89-5f7470b08fe7.png)
