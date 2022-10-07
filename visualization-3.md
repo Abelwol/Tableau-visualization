@@ -36,3 +36,7 @@ Columns: 25
 dtypes: float64(7), int64(5), object(13)
 memory usage: 1.6+ MB
 </pre>
+
+## Image 1: Average Measures
+This table chart shows Average sales, profits and discount figures during the period.
+![Avg Measures](https://user-images.githubusercontent.com/114592689/194573035-1f6fd870-18b6-4018-9441-7064f12f3c03.png)
