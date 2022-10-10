@@ -3,6 +3,7 @@
 ## Data Set Source: 
 Tableau projects for practice tutorial by Gronify. Data set link is https://drive.google.com/file/d/1AmpTGttdPZa_bxSdXodFsTIaHsOSP62h/view
 ## Dataset info:
+The dataset is about a sample Walmart stores retail transactions in defferent US cities, states and regions during the period from 2012 to 2015. It contains 8399 records from different store locations and has 25 columns
 <pre>
 Rows: 8399 
 Columns: 25 
