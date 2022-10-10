@@ -41,3 +41,22 @@ memory usage: 1.6+ MB
 ## Image 1: Average Measures
 This table chart shows Average sales, profits and discount figures during the period.
 ![Avg Measures](https://user-images.githubusercontent.com/114592689/194573035-1f6fd870-18b6-4018-9441-7064f12f3c03.png)
+## Image 2: State vs Profit
+This map chart depicts average profit or loss made in each states during the period covered.
+![State vs Profit](https://user-images.githubusercontent.com/114592689/194966729-9ff37c5b-97df-4c66-ab36-d8b184a761bf.png)
+## Image 3: Age vs Profit
+This bar chart shows average proift or loss made based on different age group during the period. Transactions made with customers in age group +90 resulted in losses duing the period.
+![Age Vs Profit](https://user-images.githubusercontent.com/114592689/194967032-2fe342c3-6f7a-4a61-a563-6a239e7009b6.png)
+## Image 4: Average quarterly profit by regions
+This highlight table shows average quarterly proft made in each year by region.
+![Regional Profit](https://user-images.githubusercontent.com/114592689/194967292-05263b28-70d8-44f8-9956-c43b6d6b8e96.png)
+## Image 5: Walmart retail data analysis dashboard
+The dashboard contains all the above four visualizations and one additional visualization(The white diamond shape at the top right of the dashboard) which shows what the data is about and how many records and columns it contains. It is responsive during hovering in the picture in the interactive dashboard. the interactive dashboard is available on below link.
+https://public.tableau.com/app/profile/abel5716/viz/WalmartretailDashboard/Dashboard1?publish=yes
+![Dashboard 1-5](https://user-images.githubusercontent.com/114592689/194967826-32099939-2768-4a63-bf10-6676230ef921.png)
+
+
+
+
+
+
