@@ -40,8 +40,10 @@ This pie chart shows total sales by each region. The total values are formatted 
 This pie chart shows total sales by product segment. The total values are formatted to one decimal and are in Thousands.
 ![Sales by Segment-2](https://user-images.githubusercontent.com/114592689/194367010-9c239119-d696-412a-84fb-6c01db83413a.png)
 ## Image4: Profit by Category
+<div style:"align-item:centre">
 This bar chart shows profits by product category. The total values are formatted to one decimal and are in Thousands.
 ![Profit By Category](https://user-images.githubusercontent.com/114592689/195139411-5737e1c8-dcd5-4fda-9155-e758e98177eb.png)
+</div>
 ## Image5: Quantity by Category
 This packe![Profit By Category](https://user-images.githubusercontent.com/114592689/195139322-15e86d7b-dd81-4e2c-a640-17a8a6b6628c.png)
 d bubbles chart shows quantity sold by product categories. 
