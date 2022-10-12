@@ -54,7 +54,8 @@ This highlight table shows average quarterly proft made in each year by region.
 The dashboard contains all the above four visualizations and one additional visualization(The white diamond shape at the top right of the dashboard) which shows what the data is about and how many records and columns it contains. It is responsive during hovering in the picture in the interactive dashboard. the interactive dashboard is available on below link.
 https://public.tableau.com/app/profile/abel5716/viz/WalmartretailDashboard/Dashboard1?publish=yes
 ![Dashboard 1-5](https://user-images.githubusercontent.com/114592689/194967826-32099939-2768-4a63-bf10-6676230ef921.png)
-
+## Remarks: 
+Although I followed a totorial to prepare the workisheets and dashboard, I faced some challenges in resizing the worksheets to fit my dashboard. Further ore i have learned how to set parameters, how to prepare age bins and how to design logo for the dashboard containing dataset information.
 
 
 
